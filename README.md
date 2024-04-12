@@ -2,7 +2,7 @@
 
 💬 Um pouco mais sobre mim
 
-Thais Lira, 30, moradora do extremo leste de São Paulo. Pedagoga especialista em educação infantil e letramento. Profissional em transição de carreira, cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNINOVE, com conclusão prevista para o segundo semestre de 2025. Atualmente, estou aprimorando minhas habilidades por meio de projetos pessoais, focados em tecnologias como HTML, CSS e Javascript. Utilizo o ambiente de desenvolvimento VS Code e gerencio meus projetos com o Git e GitHub.
+Thais Lira, 30, moradora do extremo leste de São Paulo. Pedagoga especialista em educação infantil e letramento. Profissional em transição de carreira, cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na UNINOVE, com conclusão prevista para o segundo semestre de 2025. Atualmente, estou aprimorando minhas habilidades por meio de projetos pessoais, focados em tecnologias como HTML, CSS e Javascript. Utilizo o ambiente de desenvolvimento VS Code e gerencio meus projetos com o Git e GitHub.
 <br>
 <div style="inline-block">
   <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
